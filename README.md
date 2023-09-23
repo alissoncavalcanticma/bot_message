@@ -58,7 +58,7 @@ $ npm i
 # Run the project
 $ npm run startDev
 
-# The server will initialize in the <http://localhost:4000>
+# The server will initialize in the <http://localhost:3000>
 ```
 For registry of this project, see the [REGISTRY](registry.md) file.
 
