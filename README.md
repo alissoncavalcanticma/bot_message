@@ -56,7 +56,7 @@ $ cd node_files_handling
 $ npm i
 
 # Run the project
-$ npm run dev
+$ npm run startDev
 
 # The server will initialize in the <http://localhost:4000>
 ```
