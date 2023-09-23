@@ -30,7 +30,7 @@
 
 ## :dart: About ##
 
-Projeto de manipulação de arquivos com Node.js
+Projeto de manipulação de arquivos csv usando streams com Node.js
 
 ## :rocket: Technologies ##
 
